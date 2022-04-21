@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "@vue/composition-api": "^1.4.9",
-    "three": "^0.139.2",
+    "dat.gui": "^0.7.9",
+    "three": "^0.125",
     "vue": "^3.2.25"
   },
   "devDependencies": {

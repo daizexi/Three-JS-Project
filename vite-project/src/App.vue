@@ -1,13 +1,12 @@
 <script setup lang="ts">
-import HelloWorld from '@/components/HelloWorld.vue'
 import ThreeDemo from '@/components/ThreeDemo.vue'
+import FogDemo from '@/components/FogDemo.vue'
 </script>
 
 <template>
   <div>
-      <img alt="Vue logo" src="./assets/logo.png" />
-      <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
-      <ThreeDemo />
+      <!-- <ThreeDemo /> -->
+      <FogDemo />
   </div>
 </template>
 
